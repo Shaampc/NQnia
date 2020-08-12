@@ -21,11 +21,10 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
-if(x=="1"){xxx="cuma-bertatapan-sakit-mata-merah-bisa.html"}
-if(x=="2"){xxx="obat-sakit-mata-menular-dan.html"}
-if(x=="3"){xxx="kenali-penyakit-mata-menular-dan-tidak.html"}
-if(x=="4"){xxx="waspadai-penyakit-mata-merah-yang.html"}
-if(x=="5"){xxx="sakit-mata-menular-bagaimana-cara.html"}a_to_ve[i].href="https://computerseye.blogspot.com/2020/03/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="newest-how-to-get-20000-youtube-viewers.html"}
+if(x=="2"){xxx="recognize-infectious-and-non-contagious.html"}
+if(x=="3"){xxx="are-there-blogger-templates-that.html"}
+if(x=="4"){xxx="explain-how-to-earn-blog-posts-from.html"}a_to_ve[i].href="https://computerseye.blogspot.com/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
